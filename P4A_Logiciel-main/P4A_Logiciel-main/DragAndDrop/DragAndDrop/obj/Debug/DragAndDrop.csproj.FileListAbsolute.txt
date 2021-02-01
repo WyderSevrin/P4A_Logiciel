@@ -12,3 +12,17 @@ C:\Users\spear\source\repos\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe
 C:\Users\spear\source\repos\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.pdb
 C:\Users\spear\source\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
 C:\Users\spear\source\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csprojAssemblyReference.cache
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.AjoutOE.resources
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.EspaceComm.resources
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.GererBiblio.resources
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Suggestions.resources
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Users\spear\OneDrive\Bureau\P4A_Logiciel-main\P4A_Logiciel-main\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
