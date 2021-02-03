@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.BValider = new System.Windows.Forms.Button();
             this.CheckBBloquer = new System.Windows.Forms.CheckBox();
             this.CheckBAllSugg = new System.Windows.Forms.CheckBox();
             this.CheckBSugg = new System.Windows.Forms.CheckBox();
             this.LabelNomUtil = new System.Windows.Forms.Label();
             this.listView1 = new System.Windows.Forms.ListView();
-            this.BValider = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -50,6 +50,17 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(673, 139);
             this.panel1.TabIndex = 0;
+            // 
+            // BValider
+            // 
+            this.BValider.ForeColor = System.Drawing.Color.Black;
+            this.BValider.Location = new System.Drawing.Point(563, 20);
+            this.BValider.Name = "BValider";
+            this.BValider.Size = new System.Drawing.Size(75, 31);
+            this.BValider.TabIndex = 4;
+            this.BValider.Text = "Valider";
+            this.BValider.UseVisualStyleBackColor = true;
+            this.BValider.Click += new System.EventHandler(this.button1_Click);
             // 
             // CheckBBloquer
             // 
@@ -107,16 +118,6 @@
             this.listView1.Size = new System.Drawing.Size(673, 435);
             this.listView1.TabIndex = 1;
             this.listView1.UseCompatibleStateImageBehavior = false;
-            // 
-            // BValider
-            // 
-            this.BValider.Location = new System.Drawing.Point(563, 20);
-            this.BValider.Name = "BValider";
-            this.BValider.Size = new System.Drawing.Size(75, 31);
-            this.BValider.TabIndex = 4;
-            this.BValider.Text = "Valider";
-            this.BValider.UseVisualStyleBackColor = true;
-            this.BValider.Click += new System.EventHandler(this.button1_Click);
             // 
             // Suggestions
             // 

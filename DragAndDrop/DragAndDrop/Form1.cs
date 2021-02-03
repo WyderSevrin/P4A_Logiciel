@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Control;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,13 @@ namespace DragAndDrop
 {
     public partial class Form1 : Form
     {
+        public Controleur control;
+
         public Form1()
         {
             InitializeComponent();
+            this.control = new Controleur();
+
             ajoutOE1.BringToFront();
         }
         private void ButtonAjoutOE_Click(object sender, EventArgs e)
@@ -39,6 +44,11 @@ namespace DragAndDrop
         private void ButtonPower_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void ajoutOE1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

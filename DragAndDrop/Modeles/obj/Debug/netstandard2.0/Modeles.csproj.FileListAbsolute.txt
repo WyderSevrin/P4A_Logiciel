@@ -1,0 +1,75 @@
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.deps.json
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.dll
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.pdb
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Communication.dll
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Communication.pdb
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csprojAssemblyReference.cache
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfoInputs.cache
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfo.cs
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CoreCompileInputs.cache
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CopyComplete
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.dll
+C:\Users\Sevrin\Desktop\PROJET4A\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.pdb
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.deps.json
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.dll
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.pdb
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Communication.dll
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Communication.pdb
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csprojAssemblyReference.cache
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfoInputs.cache
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfo.cs
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CoreCompileInputs.cache
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CopyComplete
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.dll
+C:\Users\Mikrail\Documents\Projet 4A\Github\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.pdb
+D:\VS\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.deps.json
+D:\VS\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.dll
+D:\VS\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.pdb
+D:\VS\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Communication.dll
+D:\VS\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Communication.pdb
+D:\VS\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csprojAssemblyReference.cache
+D:\VS\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfoInputs.cache
+D:\VS\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfo.cs
+D:\VS\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CoreCompileInputs.cache
+D:\VS\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CopyComplete
+D:\VS\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.dll
+D:\VS\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.pdb
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.deps.json
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.dll
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.pdb
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Communication.dll
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Communication.pdb
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csprojAssemblyReference.cache
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfoInputs.cache
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfo.cs
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CoreCompileInputs.cache
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CopyComplete
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.dll
+C:\Users\Sevrin\Desktop\temp\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.pdb
+C:\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.deps.json
+C:\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.dll
+C:\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Modeles.pdb
+C:\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Communication.dll
+C:\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Communication.pdb
+C:\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csprojAssemblyReference.cache
+C:\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfoInputs.cache
+C:\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfo.cs
+C:\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CopyComplete
+C:\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.dll
+C:\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.pdb
+C:\P4A_Application\Projet4A_Application\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CoreCompileInputs.cache
+C:\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\P4A_Application\Projet4A_Application\Modeles\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\bin\Debug\netstandard2.0\Modeles.deps.json
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\bin\Debug\netstandard2.0\Modeles.dll
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\bin\Debug\netstandard2.0\Modeles.pdb
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\bin\Debug\netstandard2.0\Communication.dll
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\bin\Debug\netstandard2.0\Communication.pdb
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\obj\Debug\netstandard2.0\Modeles.csprojAssemblyReference.cache
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfoInputs.cache
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\obj\Debug\netstandard2.0\Modeles.AssemblyInfo.cs
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CoreCompileInputs.cache
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\obj\Debug\netstandard2.0\Modeles.csproj.CopyComplete
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\obj\Debug\netstandard2.0\Modeles.dll
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Modeles\obj\Debug\netstandard2.0\Modeles.pdb

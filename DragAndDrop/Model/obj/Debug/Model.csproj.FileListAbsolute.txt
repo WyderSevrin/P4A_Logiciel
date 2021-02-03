@@ -1,0 +1,2 @@
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\P4A_Logiciel\P4A_Logiciel-main\DragAndDrop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache

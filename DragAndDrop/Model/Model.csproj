@@ -123,7 +123,6 @@
     <Compile Include="Commentaire.cs" />
     <Compile Include="Livre.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Utilisateur.cs" />
     <EmbeddedResource Include="Properties\Model.rd.xml" />
   </ItemGroup>
   <ItemGroup>
